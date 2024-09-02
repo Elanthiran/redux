@@ -1,0 +1,26 @@
+.book-image
+{
+  position:relative;
+  width: 100px;
+  height:100px
+}
+.divider
+{
+  border-bottom: 1px solid lightgray;
+}
+
+.cart-item-container
+{
+  height:576px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+select{
+  width:25%
+}
+
+option{
+  color:red;
+}
+
